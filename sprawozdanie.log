@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.3.16)  3 JUN 2026 10:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.3.16)  4 JUN 2026 00:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -82,102 +82,182 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \float@box=\box53
 \@float@everytoks=\toks21
 \@floatcapt=\box54
+) (C:\Users\tomek\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2025/07/09 v2.17z AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\tomek\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2024/11/17 v2.01 AMS text
+ (C:\Users\tomek\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks22
+\ex@=\dimen152
+)) (C:\Users\tomek\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen153
+) (C:\Users\tomek\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count286
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count287
+\leftroot@=\count288
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count289
+\DOTSCASE@=\count290
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box55
+\strutbox@=\box56
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen154
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count291
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count292
+\dotsspace@=\muskip17
+\c@parentequation=\count293
+\dspbrk@lvl=\count294
+\tag@help=\toks23
+\row@=\count295
+\column@=\count296
+\maxfields@=\count297
+\andhelp@=\toks24
+\eqnshift@=\dimen155
+\alignsep@=\dimen156
+\tagshift@=\dimen157
+\tagwidth@=\dimen158
+\totwidth@=\dimen159
+\lineht@=\dimen160
+\@envbody=\toks25
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks26
+LaTeX Info: Redefining \[ on input line 2950.
+LaTeX Info: Redefining \] on input line 2951.
 ) (C:\Users\tomek\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count286
-)
-No file sprawozdanie.aux.
+\l__color_backend_stack_int=\count298
+) (sprawozdanie.aux)
 \openout1 = `sprawozdanie.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
 Package babel Info: 'polish' activates 'polish' shorthands.
-(babel)             Reported on input line 17.
-(C:\Users\tomek\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+(babel)             Reported on input line 19.
+ (C:\Users\tomek\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count287
-\scratchdimen=\dimen152
-\scratchbox=\box55
-\nofMPsegments=\count288
-\nofMParguments=\count289
-\everyMPshowfont=\toks22
-\MPscratchCnt=\count290
-\MPscratchDim=\dimen153
-\MPnumerator=\count291
-\makeMPintoPDFobject=\count292
-\everyMPtoPDFconversion=\toks23
+\scratchcounter=\count299
+\scratchdimen=\dimen161
+\scratchbox=\box57
+\nofMPsegments=\count300
+\nofMParguments=\count301
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count302
+\MPscratchDim=\dimen162
+\MPnumerator=\count303
+\makeMPintoPDFobject=\count304
+\everyMPtoPDFconversion=\toks28
 ) (C:\Users\tomek\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+ (C:\Users\tomek\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (C:\Users\tomek\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+ (C:\Users\tomek\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)) (C:\Users\tomek\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+ (C:\Users\tomek\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (C:\Users\tomek\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)) (C:\Users\tomek\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (C:\Users\tomek\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
  (C:\Users\tomek\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 19.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 19.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 19.
 
-
-c:/Users/tomek/Desktop/sem4/MMM project/sprawozdanie.tex:22: LaTeX Error: Command \k unavailable in encoding OT1.
+c:/Users/tomek/Desktop/sem4/MMM project/sprawozdanie.tex:25: LaTeX Error: Command \k unavailable in encoding OT1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.22 ...ować symulator tego układu umożliwiają
+l.25 ...wać symulator tego układu, umożliwiają
                                                   c uzyskanie odpowiedzi cza...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-c:/Users/tomek/Desktop/sem4/MMM project/sprawozdanie.tex:22: LaTeX Error: Command \k unavailable in encoding OT1.
+c:/Users/tomek/Desktop/sem4/MMM project/sprawozdanie.tex:26: LaTeX Error: Command \k unavailable in encoding OT1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.22 ...\\Należy wykreślić charakterystyki czę
-                                                  stotliwościowe Bodego (am...
+l.26 Należy wykreślić charakterystyki czę
+                                             stotliwościowe Bodego (amplitu...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-c:/Users/tomek/Desktop/sem4/MMM project/sprawozdanie.tex:22: LaTeX Error: Command \k unavailable in encoding OT1.
+c:/Users/tomek/Desktop/sem4/MMM project/sprawozdanie.tex:26: LaTeX Error: Command \k unavailable in encoding OT1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.22 ...i częstotliwościowe Bodego (amplitudową
+l.26 ...i częstotliwościowe Bodego (amplitudową
                                                    i fazową) oraz odpowied�...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-c:/Users/tomek/Desktop/sem4/MMM project/sprawozdanie.tex:22: LaTeX Error: Command \k unavailable in encoding OT1.
+c:/Users/tomek/Desktop/sem4/MMM project/sprawozdanie.tex:26: LaTeX Error: Command \k unavailable in encoding OT1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.22 ...liwościowe Bodego (amplitudową i fazową
+l.26 ...liwościowe Bodego (amplitudową i fazową
                                                   ) oraz odpowiedź układu.
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -186,16 +266,16 @@ or  <return>  to continue without it.
 <Uklad.jpg, id=1, 764.10469pt x 317.68687pt>
 File: Uklad.jpg Graphic file (type jpg)
 <use Uklad.jpg>
-Package pdftex.def Info: Uklad.jpg  used on input line 25.
+Package pdftex.def Info: Uklad.jpg  used on input line 30.
 (pdftex.def)             Requested size: 276.00105pt x 114.75012pt.
 
-c:/Users/tomek/Desktop/sem4/MMM project/sprawozdanie.tex:30: LaTeX Error: Command \k unavailable in encoding OT1.
+c:/Users/tomek/Desktop/sem4/MMM project/sprawozdanie.tex:35: LaTeX Error: Command \k unavailable in encoding OT1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.30 \section{Część matematyczna}
+l.35 \section{Część matematyczna}
                                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -204,11 +284,262 @@ or  <return>  to continue without it.
 <Matemattka.jpg, id=2, 593.96906pt x 414.79968pt>
 File: Matemattka.jpg Graphic file (type jpg)
 <use Matemattka.jpg>
-Package pdftex.def Info: Matemattka.jpg  used on input line 33.
+Package pdftex.def Info: Matemattka.jpg  used on input line 40.
 (pdftex.def)             Requested size: 276.00105pt x 192.75327pt.
 [1
 
-{C:/Users/tomek/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Uklad.jpg>] [2 <./Matemattka.jpg>] (sprawozdanie.aux)
+{C:/Users/tomek/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Uklad.jpg>]
+
+c:/Users/tomek/Desktop/sem4/MMM project/sprawozdanie.tex:46: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46 ...iedzi czasowej układu wykorzystano jawną
+                                                   metodę Eulera, opierają...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+c:/Users/tomek/Desktop/sem4/MMM project/sprawozdanie.tex:46: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46 ...asowej układu wykorzystano jawną metodę
+                                                   Eulera, opierającą się...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+c:/Users/tomek/Desktop/sem4/MMM project/sprawozdanie.tex:46: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46 ...orzystano jawną metodę Eulera, opierają
+                                                  cą się na geometrycznej ...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+c:/Users/tomek/Desktop/sem4/MMM project/sprawozdanie.tex:46: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46 ...ystano jawną metodę Eulera, opierającą
+                                                   się na geometrycznej int...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+c:/Users/tomek/Desktop/sem4/MMM project/sprawozdanie.tex:46: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46 ...o jawną metodę Eulera, opierającą się
+                                                   na geometrycznej interpre...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+c:/Users/tomek/Desktop/sem4/MMM project/sprawozdanie.tex:47: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.47 ...$k$ w pierwszej kolejności wyznaczane są
+                                                   wartości prądu wejścio...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+c:/Users/tomek/Desktop/sem4/MMM project/sprawozdanie.tex:47: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.47 ... kolejności wyznaczane są wartości prą
+                                                  du wejściowego $i_{\text{...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+c:/Users/tomek/Desktop/sem4/MMM project/sprawozdanie.tex:47: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.47 ...}[k]$ na podstawie aktualnego stanu napię
+                                                  ć w układzie:
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+c:/Users/tomek/Desktop/sem4/MMM project/sprawozdanie.tex:52: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.52 Nastę
+           pnie wyliczana jest pochodna napięcia na kondensatorze, która w...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+c:/Users/tomek/Desktop/sem4/MMM project/sprawozdanie.tex:52: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.52 Następnie wyliczana jest pochodna napię
+                                              cia na kondensatorze, która w...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+c:/Users/tomek/Desktop/sem4/MMM project/sprawozdanie.tex:57: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.57 ... jest kolejna (przyszła) wartość napię
+                                                  cia dla kroku $k+1$, z uwz...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+c:/Users/tomek/Desktop/sem4/MMM project/sprawozdanie.tex:57: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.57 ...ość napięcia dla kroku $k+1$, z uwzglę
+                                                  dnieniem kroku czasu $\Del...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<met_euler.jpg, id=11, 313.9228pt x 95.6072pt>
+File: met_euler.jpg Graphic file (type jpg)
+<use met_euler.jpg>
+Package pdftex.def Info: met_euler.jpg  used on input line 64.
+(pdftex.def)             Requested size: 276.00105pt x 84.06163pt.
+[2 <./Matemattka.jpg>]
+
+c:/Users/tomek/Desktop/sem4/MMM project/sprawozdanie.tex:71: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.71 -\textbf{Prostokątny}
+                            o określonym czasie trwania o zadanym okresie T...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+c:/Users/tomek/Desktop/sem4/MMM project/sprawozdanie.tex:72: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.72 -\textbf{Trójkątny}
+                          , uzyskany poprzez  całkowanie sygnału prostoką...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+c:/Users/tomek/Desktop/sem4/MMM project/sprawozdanie.tex:72: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.72 ...ny poprzez  całkowanie sygnału prostoką
+                                                  tnego metodą prostokątó...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+c:/Users/tomek/Desktop/sem4/MMM project/sprawozdanie.tex:72: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.72 ...ałkowanie sygnału prostokątnego metodą
+                                                   prostokątów, a następn...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+c:/Users/tomek/Desktop/sem4/MMM project/sprawozdanie.tex:72: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.72 ... sygnału prostokątnego metodą prostoką
+                                                  tów, a następnie znormal...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+c:/Users/tomek/Desktop/sem4/MMM project/sprawozdanie.tex:72: LaTeX Error: Command \k unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.72 ...tokątnego metodą prostokątów, a nastę
+                                                  pnie znormalizowany.\\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--74
+
+ []
+
+<sygnalyy.jpg, id=19, 335.00156pt x 456.20438pt>
+File: sygnalyy.jpg Graphic file (type jpg)
+<use sygnalyy.jpg>
+Package pdftex.def Info: sygnalyy.jpg  used on input line 80.
+(pdftex.def)             Requested size: 276.00105pt x 375.85812pt.
+[3 <./met_euler.jpg>] [4 <./sygnalyy.jpg>] (sprawozdanie.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
@@ -219,17 +550,17 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 2582 strings out of 467871
- 45064 string characters out of 5418376
- 458033 words of memory out of 5000000
- 31472 multiletter control sequences out of 15000+600000
- 631361 words of font info for 52 fonts, out of 8000000 for 9000
+ 3900 strings out of 467871
+ 66043 string characters out of 5418376
+ 479827 words of memory out of 5000000
+ 32737 multiletter control sequences out of 15000+600000
+ 632797 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,7n,65p,423b,355s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/tomek/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/tomek/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/tomek/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/tomek/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on sprawozdanie.pdf (2 pages, 145121 bytes).
+ 59i,6n,67p,314b,355s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/tomek/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/tomek/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/tomek/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/tomek/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/tomek/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/tomek/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/tomek/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/tomek/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/tomek/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on sprawozdanie.pdf (4 pages, 287601 bytes).
 PDF statistics:
- 31 PDF objects out of 1000 (max. 8388607)
+ 64 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

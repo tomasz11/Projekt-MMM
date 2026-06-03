@@ -1,38 +1,84 @@
 \documentclass{article}
 \usepackage[utf8]{inputenc}
-\usepackage[polish]{babel} % Polski podział wyrazów i ogonki
+\usepackage[polish]{babel} 
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{amsmath} 
+
+\graphicspath{ {./images/} } 
 
 \title{
     SPRAWOZDANIE \\ [0.6em]
     \large Metody Modelowania Matematycznego \\ [0.5em]
-    \large Projekt nr.10
-
+    \large Projekt nr 10
 }
 
 \author{Autorzy: Stanisław Oryl, Tomasz Kupski}
 \date{\today}
-\usepackage{graphicx}
-\usepackage{float}
-\graphicspath{ {./images/} } % (Opcjonalnie) Ścieżka do folderu, w którym trzymasz zdjęcia
+
 \begin{document}
 
 \maketitle
 
 \section{Wprowadzenie}
-Dany jest układ RLC.gdzie R, L, C to parametry modelu.\\ Należy zaimplementować symulator tego układu umożliwiając uzyskanie odpowiedzi czasowych układu na pobudzenie przynajmniej trzema rodzajami sygnałów wejściowych. \\Należy wykreślić charakterystyki częstotliwościowe Bodego (amplitudową i fazową) oraz odpowiedź układu.
-\begin{figure}[h]
+Dany jest układ RLC, gdzie R, L, C to parametry modelu. \\
+Należy zaimplementować symulator tego układu, umożliwiając uzyskanie odpowiedzi czasowych układu na pobudzenie przynajmniej trzema rodzajami sygnałów wejściowych. \\
+Należy wykreślić charakterystyki częstotliwościowe Bodego (amplitudową i fazową) oraz odpowiedź układu.
+
+\begin{figure}[H]
     \centering
     \includegraphics[width=0.8\textwidth]{Uklad.jpg}
-    \caption{ Zadany układ RLC .}
-    \label{fig:moje_zdjecie}
+    \caption{Zadany układ RLC.}
+    \label{fig:uklad_rlc}
 \end{figure}
 
 \section{Część matematyczna}
+Wyprowadzenie równań układu:
+
 \begin{figure}[H]
     \centering
     \includegraphics[width=0.8\textwidth]{Matemattka.jpg}
-  
-    \label{fig:moje_zdjecie}
+    \caption{}
+    \label{fig:matematyka}
 \end{figure}
 
+\section{Metoda symulacji}
+Do wyznaczenia odpowiedzi czasowej układu wykorzystano jawną metodę Eulera, opierającą się na geometrycznej interpretacji równania różniczkowego. 
+W każdym kroku symulacji $k$ w pierwszej kolejności wyznaczane są wartości prądu wejściowego $i_{\text{wej}}[k]$ oraz wyjściowego $i_{\text{wyj}}[k]$ na podstawie aktualnego stanu napięć w układzie:
+\begin{equation}
+    i_{\text{wej}}[k] = \frac{u_{\text{wej}}[k] - u_c[k]}{R_2}, \qquad i_{\text{wyj}}[k] = \frac{u_c[k]}{R}
+\end{equation}
+
+Następnie wyliczana jest pochodna napięcia na kondensatorze, która wyznacza kierunek stycznej:
+\begin{equation}
+    \frac{\mathrm{d}u_c[k]}{\mathrm{d}t} = \frac{i_{\text{wej}}[k] - i_{\text{wyj}}[k]}{C}
+\end{equation}
+
+Wzdłuż wyznaczonej stycznej obliczana jest kolejna (przyszła) wartość napięcia dla kroku $k+1$, z uwzględnieniem kroku czasu $\Delta t$:
+\begin{equation}
+    u_c[k+1] = u_c[k] + \frac{\mathrm{d}u_c[k]}{\mathrm{d}t} \cdot \Delta t
+\end{equation}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{met_euler.jpg}
+    \caption{Metoda Eulera w kodzie}
+    \label{fig:metoda_eulera}
+\end{figure}
+
+\section{Sygnały}
+Generowane sygnały w programie:\\
+-\textbf{Prostokątny} o określonym czasie trwania o zadanym okresie T , który po czasie 0.5 s zostaje wygaszony do zera.\\
+-\textbf{Trójkątny}, uzyskany poprzez  całkowanie sygnału prostokątnego metodą prostokątów, a następnie znormalizowany.\\
+-\textbf{Harmoniczny}, jest to funkcja sinus.\\
+
+
+
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{sygnalyy.jpg}
+    \caption{Rysunek przedstawia generowane sygnały w kodzie.}
+    \label{fig:matematyka}
+\end{figure}
 \end{document}
