@@ -1,0 +1,22 @@
+Elo, masz w tym zipie worda oraz obrazki
+
+Co do worda, masz w nim:
+- jedno zdanie, które trzeba wkleić do opisu sygnału
+- wnioski, które trzeba dać w nowy segment
+- źródła, które trzeba dać w nowy segment
+
+Tu masz podpisy do obrazków, takie już do przeklejenia w latexa
+
+obrazek_a - Rysunek przedstawia porównanie trzech sygnałów wejściowych (od góry: trójkątny, prostokątny o skończonym czasie trwania, harmoniczny sinusoidalny) oraz odpowiedzi układu na te sygnały.
+
+obrazek_b - Rysunek przedstawia porównanie sygnałów wejściowych harmonicznych o trzech wartościach częstotliwości (od góry: 10Hz, 1Hz, ok. 100Hz - widok przybliżony). Na bazie tego porównania można zauważyć, iż charakterystyki Bodego pokrywają się z odpowiedziami układu na pobudzenia o różnych częstotliwościach.
+
+obrazek_c - Rysunek przedstawia porównanie odpowiedzi układu oraz charakterystyk Bodego ze zmienionym parametrem $R_2$ układu.
+
+obrazek_d - Rysunek przedstawia porównanie odpowiedzi układu oraz charakterystyk Bodego ze zmienionym parametrem $R$ układu.
+
+obrazek_e - Rysunek przedstawia porównanie odpowiedzi układu oraz charakterystyk Bodego ze zmienionym parametrem $C$ układu.
+
+obrazek_f - Rysunek przedstawia porównanie sygnałów wejściowych o różnych amplitudach. Wykres jest skalowany zależnie od amplitudy, lecz wartości na osi się zmieniają.
+
+obrazek_g - Rysunek przedstawia porównanie odpowiedzi układu roaz charakterystyk Bodego ze zmienionym parametrem $L$ układu. Zauważalne jest, iż zmiana wartości tego parametru nie wpływa na zachowanie układu
